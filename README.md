@@ -36,7 +36,7 @@ Em transição para o Mundo dos Dados com paixão por ajudar as organizações a
 
 ### 📫 Contato
 
-📧 [**Email:**] (bispo.edgar@hotmail.com)
+📧 **Email:** bispo.edgar@hotmail.com
 
 💼 [**LinkedIn**](https://br.linkedin.com/in/edgar-clemente-bispo-468397234)  
 

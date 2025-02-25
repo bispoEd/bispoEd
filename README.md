@@ -36,9 +36,8 @@ Sou apaixonado por tecnologia, segurança do trabalho e análise de dados. Atual
 
 ### 📫 Contato
 
-📧 **Email:** seuemail@email.com  
-💼 [**LinkedIn**](https://www.linkedin.com/in/seu-perfil/)  
-🐦 [**Twitter**](https://twitter.com/seuusuario)  
+📧 **Email:** bispo.edgar@hotmail.com 
+💼 [**LinkedIn**](https://br.linkedin.com/in/edgar-clemente-bispo-468397234)  
 
 ---
 

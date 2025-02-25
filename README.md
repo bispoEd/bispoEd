@@ -1,5 +1,49 @@
-## Olá, Me chamo Edgar Bispo!
-### Seja bem-vindo ao meu perfil Github ✨
+## 👋 Olá! Eu sou Edgar Bispo✨
+
+🚀 **Bacharel em TI (Análise de Dados)**  
+📊 **Atualmente estudando Engenharia de Dados** 
+
+Sou apaixonado por tecnologia, segurança do trabalho e análise de dados. Atualmente, estou focado no desenvolvimento de habilidades em manipulação de dados e programação em Python.
+
+---
+
+### 🛠️ Tecnologias & Ferramentas
+
+- 📌 **Linguagens:** Python, SQL
+- 📊 **Análise de Dados:** Pandas, NumPy, Matplotlib, Seaborn
+- 📂 **Banco de Dados:** MySQL, PostgreSQL
+- 📈 **BI & Visualização:** Power BI, Tableau
+- 🛠️ **Outros:** Git, GitHub, Docker
+
+---
+
+### 🚀 Projetos em Destaque
+
+🔹 [**Projeto 1**](https://github.com/bispoEd/PROJETO1) - Descrição breve do projeto.  
+🔹 [**Projeto 2**](https://github.com/bispoEd/PROJETO2) - Descrição breve do projeto.  
+🔹 [**Projeto 3**](https://github.com/bispoEd/PROJETO3) - Descrição breve do projeto.  
+
+> 📌 *Fixe os principais repositórios no seu perfil para destacar seus melhores trabalhos!*
+
+---
+
+### 📊 Estatísticas do GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bispoEd&show_icons=true&theme=dracula)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bispoEd&layout=compact&theme=dracula)
+
+---
+
+### 📫 Contato
+
+📧 **Email:** seuemail@email.com  
+💼 [**LinkedIn**](https://www.linkedin.com/in/seu-perfil/)  
+🐦 [**Twitter**](https://twitter.com/seuusuario)  
+
+---
+
+💡 *Sempre aberto a novas conexões e oportunidades! 🚀*
+ ✨
 <!--
 **bispoEd/bispoEd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

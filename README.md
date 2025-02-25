@@ -1,9 +1,9 @@
 ## 👋 Olá! Eu sou Edgar Bispo✨
 
-🚀 **Bacharel em TI (Análise de Dados)**  
+🚀 **Bacharel em Tecnologia da Informação - Análise de Dados**  
 📊 **Atualmente estudando Engenharia de Dados** 
 
-Sou apaixonado por tecnologia, segurança do trabalho e análise de dados. Atualmente, estou focado no desenvolvimento de habilidades em manipulação de dados e programação em Python.
+Em transição para o Mundo dos Dados com paixão por ajudar as organizações a tomar decisões informadas, utilizando dados e análises para impulsionar o crescimento e a inovação.
 
 ---
 
@@ -36,7 +36,7 @@ Sou apaixonado por tecnologia, segurança do trabalho e análise de dados. Atual
 
 ### 📫 Contato
 
-📧 **Email:** bispo.edgar@hotmail.com
+📧 [**Email:**] (bispo.edgar@hotmail.com)
 
 💼 [**LinkedIn**](https://br.linkedin.com/in/edgar-clemente-bispo-468397234)  
 
